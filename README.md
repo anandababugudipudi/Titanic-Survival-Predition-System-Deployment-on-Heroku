@@ -1,1 +1,1 @@
-# Titanic-Survival-Predition-System-Deployment-on-Heroku
+# Titanic Survival Predition System
